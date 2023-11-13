@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Arya Vaezi
+-  I’m interested in Web Design
+-  I’m currently learning Python/HTML5,CSS3
+- 📫 How to reach me: Arya.vaezi78@gmail.com
